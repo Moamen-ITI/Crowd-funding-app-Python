@@ -1,17 +1,9 @@
 [
     {
-        "name": "moamen",
-        "email": "moamen",
-        "password": "1234"
-    },
-    {
-        "name": "moamen",
-        "email": "moamen",
-        "password": "1234"
-    },
-    {
-        "name": "moamen",
+        "first_name": "moamen",
+        "last_name": "yasser",
         "email": "moamen@gmail.com",
-        "password": "1234"
+        "password": "1234",
+        "phone": "01275467568"
     }
 ]
